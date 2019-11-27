@@ -1,4 +1,6 @@
 Bob added. Peace out :-)
 Edited.
 
-diff --git a/Bob.txt b/Bob.txt 
+diff --git a/Bob.txt b/Bob.txt
+
+After staging the top, added new stuff.  
