@@ -3,4 +3,6 @@ Edited.
 
 diff --git a/Bob.txt b/Bob.txt
 
-After staging the top, added new stuff.  
+After staging the top, added new stuff.
+
+Merging divergent branch - Bob  
